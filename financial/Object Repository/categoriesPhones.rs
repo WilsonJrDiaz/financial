@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>categoriesPhones</name>
+   <tag></tag>
+   <elementGuidId>3fb8730b-e613-47a4-91aa-808444125236</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[5]/div/div[1]/div/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[5]/div/div[1]/div/a[2]</value>
+      <webElementGuid>a75b2cdb-790d-4874-bf87-0ba6ba65364c</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

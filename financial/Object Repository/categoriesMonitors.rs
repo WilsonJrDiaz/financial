@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>categoriesMonitors</name>
+   <tag></tag>
+   <elementGuidId>0aad3ea7-5093-47b9-aa7d-ef08e0310d9f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[5]/div/div[1]/div/a[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[5]/div/div[1]/div/a[4]</value>
+      <webElementGuid>77445c0e-b866-40f7-8430-72f2dc7111cd</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>financial-suite</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>b9177d35-051a-4380-866b-1a756b1a0199</testSuiteGuid>
+   <testCaseLink>
+      <guid>4f78be11-bcf2-4252-bc66-28ce735f0516</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/index</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>b6b9c2d8-b24f-4280-951b-c417350d195a</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/financial-data</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>b6b9c2d8-b24f-4280-951b-c417350d195a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>user</value>
+         <variableId>5a1293a2-c64d-4cf5-873b-8cc59a1d70f1</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b6b9c2d8-b24f-4280-951b-c417350d195a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>pass</value>
+         <variableId>c939ea50-7e06-4b82-95bb-f4c2540c0406</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

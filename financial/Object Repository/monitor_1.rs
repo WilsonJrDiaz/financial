@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>monitor_1</name>
+   <tag></tag>
+   <elementGuidId>2bb1c75d-dca7-445e-8ac7-75857831be72</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[5]/div/div[2]/div/div[1]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[5]/div/div[2]/div/div[1]/div</value>
+      <webElementGuid>4742c233-8b28-45f9-8de5-c5458fc409f2</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

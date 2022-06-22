@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnToLogout</name>
+   <tag></tag>
+   <elementGuidId>27d6a2f9-3c07-4bee-aa42-10d5f76c4c43</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@id=&quot;logout2&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[@id=&quot;logout2&quot;]</value>
+      <webElementGuid>c35ece4c-9fc3-4cda-b20e-cce9db6a7466</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

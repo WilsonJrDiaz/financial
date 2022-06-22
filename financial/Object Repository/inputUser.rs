@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>inputUser</name>
+   <tag></tag>
+   <elementGuidId>747a03ee-552b-4d6f-8e10-11d48c951ccd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id=&quot;loginusername&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@id=&quot;loginusername&quot;]</value>
+      <webElementGuid>0cbab799-d739-4c01-ad12-c36c63048c51</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
